@@ -38,3 +38,4 @@ class GeoHelper25:
             "lng": data.get("GPSLongitude"),
             "altitude": data.get("GPSAltitude")
         }
+# Modified 2023-07-10
