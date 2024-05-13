@@ -6,3 +6,4 @@ class Location(BaseModel):
     longitude: float
     confidence: float
 # Modified 2024-07-22
+# Modified 2024-05-13
