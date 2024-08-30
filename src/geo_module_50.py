@@ -11,3 +11,4 @@ class LocationAnalyzer50:
         result = self.model(torch.tensor(data))
         return {"lat": float(result[0]), "lng": float(result[1])}
 # Modified 2023-08-21
+# Modified 2024-08-30
